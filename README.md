@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @madanagrawal111
 - 👀 I’m interested in SQL server & Cloud Technology
-- 🌱 I’m currently learning Azure.
 - 💞️ I’m looking to collaborate on github resources
 - 📫 How to reach me madan_agrawal111@outlook.com
 
